@@ -1,16 +1,20 @@
 import React from 'react';
 import SamuraiFlixLogo from '../../assets/img/SamuraiFlixLogo.png';
-import './Menu.css';
-// import ButtonLink from '../buttonLink/index';
+import { Link } from 'react-router-dom';
 import Button from '../button'
+import './Menu.css'
+
+
 function Menu () {
     return (
         <nav className = "Menu">
-            <a href = "/">
+            <Link to="/">
             <img className  = "SamuraiFlixLogo" src = {SamuraiFlixLogo} alt = "SamuraiFlix logo"/>
-            </a>
+            </Link>
 
-            <Button as = "a" className = "ButtonLink" href= "/">Novo Video</Button>
+            <Button as={Link} className="ButtonLink" to="/cadastro/video">
+                Novo Vídeo
+            </Button>
         </nav>
     );
 }
