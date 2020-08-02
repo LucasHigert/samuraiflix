@@ -1,17 +1,19 @@
 import React from 'react';
 import { FooterBase } from './styles';
+import SamuraiLucas from '../../assets/img/SamuraiLucas.jpeg';
 
 function Footer() {
   return (
     <FooterBase>
       <a href="https://www.alura.com.br/">
-        <img src="https://www.alura.com.br/assets/img/alura-logo-white.1570550707.svg" alt="Logo Alura" />
+        <img className = "SamuraiFlixLogo" src = {SamuraiLucas} alt="Logo Alura" />
       </a>
       <p>
-        Orgulhosamente criado durante a
+        Orgulhosamente criado por 
         {' '}
-        <a href="https://www.alura.com.br/">
-          Imersão React da Alura
+        <a href="https://www.linkedin.com/in/lucas-higert/">
+        Lucas Sembarski Higert 
+        ☯
         </a>
       </p>
     </FooterBase>

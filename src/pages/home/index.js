@@ -1,5 +1,5 @@
 import React from 'react';
-import Menu from '../../components/menu'
+import Menu from '../../components/Menu'
 import Footer from '../../components/Footer'
 import BannerMain from '../../components/BannerMain'
 import Carousel from '../../components/Carousel'
@@ -12,9 +12,9 @@ function Home() {
       <Menu />
       
       <BannerMain 
-        videoTitle="Sekiro: Shadows Die Twice - Official Trailer"
-        videoDescription ="Confira o novo trailer de Sekiro!"
-        url="https://www.youtube.com/watch?v=4OgoTZXPACo"
+        videoTitle="Ghost of Tsushima"
+        videoDescription ="Ghost of Tsushima - Trailer da História "
+        url="https://www.youtube.com/watch?v=7WzKdFjRoWE&has_verified=1"
       />
       
       { data.categorias.map(item => <Carousel category = {item}/>) }

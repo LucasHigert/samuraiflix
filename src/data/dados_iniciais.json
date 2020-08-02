@@ -1,183 +1,115 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Games",
       "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "cor": "#1D3547",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Sekiro: Shadows Die Twice",
+          "url": "https://www.youtube.com/watch?v=rXMX4YJ7Lks"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Samurai Shodown - Draw Your Blade Trailer",
+          "url": "https://www.youtube.com/watch?v=YILerS7DVEU"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Samurai Warriors 4 - Opening Trailer",
+          "url": "https://www.youtube.com/watch?v=AHEFzw8O6N0"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
-        },
-        {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
-        },
-        {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
-        },
-        {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+          "titulo": "Shadow Warrior 2 - Announcement Trailer",
+          "url": "https://www.youtube.com/watch?v=AsrvGM3u9z8"
+        }
       ]
     },
     {
-      "titulo": "Back End",
-      "cor": "#00C86F",
+      "titulo": "Music",
+      "cor": "#1D3547",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Lofi HipHop",
+        "url": "https://pt.wikipedia.org/wiki/Lo-fi_(g%C3%AAnero_musical)#:~:text=Lo%2Dfi%20(atualmente%20conhecido%20como,cassete%20para%20fazer%20as%20m%C3%BAsicas."
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Samurai ☯ Japanese Lofi HipHop Mix",
+          "url": "https://www.youtube.com/watch?v=jrTMMG0zJyI"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Samurai☯ Trap & Bass Japanese Type Beat ☯ Lofi Hiphop Mix",
+          "url": "https://www.youtube.com/watch?v=yY7iGa4t9-I"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Concentrate Your Mind ☯ Asian Lofi HipHop Mix",
+          "url": "https://www.youtube.com/watch?v=X1uaOtiJ9Vc"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "☯ Yaksha 👹 Japanese Trap Hiphop ☯",
+          "url": "https://www.youtube.com/watch?v=A7WZhoGRjMI"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Senso☯ Trap & Bass Japanese Type Beat ☯ Lofi HipHop Mix",
+          "url": "https://www.youtube.com/watch?v=wgWP0Su5Z6A"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
+      "titulo": "Movies",
+      "cor": "#1D3547",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "47 Ronins - Trailer Oficial Legendado",
+          "url": "https://www.youtube.com/watch?v=WSZ8KJfCkgg"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "The Last Samurai Official Trailer #1 - (2003) HD",
+          "url": "https://www.youtube.com/watch?v=T50_qHEOahQ"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Wolverine: Imortal",
+          "url": "https://www.youtube.com/watch?v=zP6nE1nEfeI"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Ghost Dog - Swords On The Roof / Park Scene",
+          "url": "https://www.youtube.com/watch?v=xAlBlavGaB8"
         }
       ]
     },
     {
-      "titulo": "Filmes",
-      "cor": "orange",
-      "videos": [
-        {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
-        },
-        {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
-        },
-        {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
-        },
-        {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
-        }
-      ]
-    },
-    {
-      "titulo": "Games",
-      "cor": "red",
+      "titulo": "Animes",
+      "cor": "#1D3547",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Anime",
+        "url": "https://pt.wikipedia.org/wiki/Anime"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "BRAVE 10 - Official Trailer",
+          "url": "https://www.youtube.com/watch?v=ioSn1KaDEj0"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Afro Samurai Trailer",
+          "url": "https://www.youtube.com/watch?v=cnZS1M23gRE"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Donten Ni Warau trailer coming fall 2014",
+          "url": "https://www.youtube.com/watch?v=N6FFqxsPnTI"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Samurai Champloo - Trailer",
+          "url": "https://www.youtube.com/watch?v=MV9sMJau674"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
-        }
-      ]
-    },
-    {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
-      "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
-      },
-      "videos": [
-        {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
-        },
-        {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
-        },
-        {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        },
-        {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
-        },
-        {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "【Animation】Asu no Yoichi (Trailer)【English】",
+          "url": "https://www.youtube.com/watch?v=Nw3K2Frc8nU"
         }
       ]
     }
